@@ -39,3 +39,11 @@ button {
 .menu-list {
   list-style-type: none;
 }
+
+.header-container {
+  display: flex;
+}
+
+.page-navigation {
+  display: flex;
+}
