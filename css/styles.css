@@ -1,3 +1,5 @@
+/* Rules tages */
+
 h1,
 h2,
 h3,
@@ -9,6 +11,31 @@ p {
   margin-bottom: 0;
 }
 
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+img {
+  display: block;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* Rules classes */
+
 .link {
   text-decoration: none;
+}
+
+.menu-list {
+  display: flex;
+}
+
+.menu-list {
+  list-style-type: none;
 }
