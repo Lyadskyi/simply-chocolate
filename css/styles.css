@@ -47,3 +47,22 @@ button {
 .page-navigation {
   display: flex;
 }
+
+.accent-color {
+  color: #fd9222;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: -0.72px;
+  text-transform: uppercase;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.ingredients-list {
+  display: flex;
+}
